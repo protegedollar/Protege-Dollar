@@ -1,20 +1,21 @@
-Bitcoin Core integration/staging tree
+Protege Dollar integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://Protegedollar.com
 
-What is Bitcoin?
+What is Bitcoin / Protege Dollar?
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+anyone, anywhere in the world. Protege Dollar is a reimplementation of bitcoin using 
+10 years of data from the bitcoin experiment to provide America with a regulated form of 
+digital money while also not taking risk that could help facilitate terrorism. 
+a Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
-[original whitepaper](https://bitcoincore.org/bitcoin.pdf).
+
 
 License
 -------
