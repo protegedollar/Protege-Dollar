@@ -14,7 +14,8 @@ Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency. Protege Dollar has a lot of the bitcoin
-Features but with new ones added on.
+Features but with new ones added on to function as a decentralized social network as well that 
+distributes the currency per post
 
 Development Process
 -------------------
